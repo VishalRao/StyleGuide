@@ -5,6 +5,12 @@ The "Vishal" style of code.
 --------------------
 ## Rules
 
+### Whitespace
+
+Adopted directly from Google's Java Style Guide:
+
+https://google.github.io/styleguide/javaguide.html#s2.3.1-whitespace-characters
+
 ### Indentation
 
 #### Indentation Style
