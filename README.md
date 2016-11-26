@@ -2,6 +2,7 @@
 The "Vishal" style of code.
 
 
+--------------------
 ## Rules
 
 ### Indentation
@@ -35,7 +36,7 @@ Space between all tokens except for sides of parentheses.
 
 No wildcard imports.   
 
-
+---------------
 ## Recommendations
 
 Effective Java
