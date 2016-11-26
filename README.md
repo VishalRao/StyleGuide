@@ -2,32 +2,42 @@
 The "Vishal" style of code.
 
 
+## Rules
 
+### Indentation
 
-# Indent
-
-## Indent Style
+#### Indentation Style
 
 
 https://en.wikipedia.org/wiki/Indent_style#Allman_style
 
-## Indent Size
+#### Indentation Size
 
 4 Spaces
 
 
-##Indent Composition
+#### Indentation Composition
 
-No Tabs..only spaces
+No Tabs..only spaces.
+
+It is recommended that you configure your editor/IDE to soft-tab your tab character into 4 spaces.
+You can verify this is working when you tab and then left-arrow.  If you configured this correctly, you should need to left-arrow 4 times until you've reached the starting position of the tab.
 
 
 
-# Spacing
+### Spacing
 
 Space between all tokens except for sides of parentheses.
 
 
 
-# Imports
+### Imports
 
 No wildcard imports.   
+
+
+## Recommendations
+
+Effective Java
+
+Effective C++
