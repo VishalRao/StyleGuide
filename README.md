@@ -7,7 +7,9 @@ The "Vishal" style of code.
 # Indent
 
 ## Indent Style
-https://en.wikipedia.org/wiki/Indent_style#Horstmann_style
+
+
+https://en.wikipedia.org/wiki/Indent_style#Allman_style
 
 ## Indent Size
 
