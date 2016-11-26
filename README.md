@@ -16,13 +16,15 @@ https://en.wikipedia.org/wiki/Indent_style#Allman_style
 4 Spaces
 
 
-# Indent Composition
-
+##Indent Composition
 
 No Tabs..only spaces
 
 
 
+# Spacing
+
+Space between all tokens except for sides of parentheses.
 
 
 
