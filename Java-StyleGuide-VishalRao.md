@@ -40,11 +40,27 @@ Space between all tokens except for sides of parentheses.
 
 ### Imports
 
-No wildcard imports.   
+No wildcard imports are permitted.
+
+### Javadoc
+
+Adopted directly from Google's Java Style Guide:
+
+https://google.github.io/styleguide/javaguide.html#s7-javadoc
+
+with the additional proviso of using 
+
+```
+/**
+ * {@inheritDoc}
+ */
+```
+
+when this is more appropriate than not having any Javadoc on inherited members.
 
 ---------------
 ## Recommendations
 
 Effective Java
 
-Effective C++
+
