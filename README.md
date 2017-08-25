@@ -1,50 +1,10 @@
 # StyleGuide
-The "Vishal" style of code.
 
+The "Vishal" style of writing software code.
 
---------------------
-## Rules
+This Style Guides provides Rules and Recommendations for various languges and source object types.
 
-### Whitespace
+"Rules" are normative requirements.
 
-Adopted directly from Google's Java Style Guide:
+"Recommendations" are suggestions that when incorporated will improve the maintainability, safety, security, quality, performance, and effectiveness of the code.
 
-https://google.github.io/styleguide/javaguide.html#s2.3.1-whitespace-characters
-
-### Indentation
-
-#### Indentation Style
-
-
-https://en.wikipedia.org/wiki/Indent_style#Allman_style
-
-#### Indentation Size
-
-4 Spaces
-
-
-#### Indentation Composition
-
-No Tabs..only spaces.
-
-It is recommended that you configure your editor/IDE to soft-tab your tab character into 4 spaces.
-You can verify this is working when you tab and then left-arrow.  If you configured this correctly, you should need to left-arrow 4 times until you've reached the starting position of the tab.
-
-
-
-### Spacing
-
-Space between all tokens except for sides of parentheses.
-
-
-
-### Imports
-
-No wildcard imports.   
-
----------------
-## Recommendations
-
-Effective Java
-
-Effective C++
