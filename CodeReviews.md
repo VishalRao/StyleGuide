@@ -7,9 +7,15 @@ Standard Code Review abbreviations, a 4-letter-max prefix for messages
 | WSI | whitespace or indent is messed up | |
 | COMM | explanation comment needed | |
 | DOC | javadoc or header doc needed | |
-| SUGG | suggstion, not required for approval |
-| REQ | change is absolutely required for approval, not necessarily a bug |
-| ALT | alternative way you could have coded this, just sayin' |
+| SUGG | suggstion, not required for approval ||
+| REQ | change is absolutely required for approval, not necessarily a bug ||
+| ALT | alternative way you could have coded this, just sayin' ||
+| BUG | the way it's coded has a glaring bug ||
+| TYPO |typo or spelling error ||
+| STYL | style or formatting can be improved for readability |
+| NAME | naming could be better |
+| NICE | cal out a good piece of code or design choice |
+
 
 ```
 NIT - nit-pick
@@ -36,7 +42,7 @@ STYL - style or formatting can be improved for readability
 
 NAME - naming could be better
 
-NICE - call out a good piece of code
+NICE - call out a good piece of code or design choice |
 
 ```
 
