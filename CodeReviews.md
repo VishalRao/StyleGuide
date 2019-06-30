@@ -6,7 +6,7 @@ CSV - coding standard violation
 
 WSI - whitespace or indent is messed up
 
-ECN - explanation comment needed
+COM - explanation comment needed
 
 DOC - javadoc or header doc needed
 
