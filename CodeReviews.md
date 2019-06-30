@@ -3,7 +3,7 @@ Standard Code Review abbreviations, a 4-letter-max prefix for messages
 | Abbreviation | Meaning | Example |
 |--------------|---------|---------|
 | NIT | nit-pick | NIT: unused import |
-| CSV | coding standard violation | space between keyword and open paren|
+| CSV | coding standard violation | CSV: space between keyword and open paren|
 
 
 ```
