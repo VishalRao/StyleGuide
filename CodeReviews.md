@@ -1,9 +1,12 @@
 Standard Code Review abbreviations, a 4-letter-max prefix for messages
 
 | Abbreviation | Meaning | Example |
-|------------|---------|--------|
+|--------------|---------|---------|
 | NIT | nit-pick | NIT: unused import |
+| CSV | coding standard violation | space between keyword and open paren|
 
+
+```
 NIT - nit-pick
 
 CSV - coding standard violation
@@ -30,7 +33,7 @@ NAME - naming could be better
 
 NICE - call out a good piece of code
 
-
+```
 
 
 not required to use a prefix, but when it fits into the above categories, it might be good to use them 
