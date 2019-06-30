@@ -1,6 +1,7 @@
 Standard Code Review abbreviations, a 4-letter-max prefix for messages
 
-|| Abbreviation || Meaning || Example ||
+| Abbreviation | Meaning | Example |
+|------------|---------|--------|
 | NIT | nit-pick | NIT: unused import |
 
 NIT - nit-pick
@@ -28,3 +29,8 @@ FMT - formatting can be improved for readability
 NAME - naming could be better
 
 NICE - call out a good piece of code
+
+
+
+
+not required to use a prefix, but when it fits into the above categories, it might be good to use them 
