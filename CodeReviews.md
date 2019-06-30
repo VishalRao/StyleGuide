@@ -1,4 +1,7 @@
-I'm thinking of coming up with some standard Code Review abbreviations, a 3-letter-max prefix we can all use.   For starters:
+Standard Code Review abbreviations, a 4-letter-max prefix for messages
+
+|| Abbreviation || Meaning || Example ||
+| NIT | nit-pick | NIT: unused import |
 
 NIT - nit-pick
 
@@ -10,8 +13,18 @@ COM - explanation comment needed
 
 DOC - javadoc or header doc needed
 
-SUG - suggestion, not required for approval
+SUGG - suggestion, not required for approval
+
+REQ - change is absolutely required for approval, not necessarily a BUG
 
 ALT - alternative way you could have coded this, just sayin'
 
 BUG - the way it's coded has a glaring bug
+
+TYPO - typo or spelling error
+
+FMT - formatting can be improved for readability
+
+NAME - naming could be better
+
+NICE - call out a good piece of code
