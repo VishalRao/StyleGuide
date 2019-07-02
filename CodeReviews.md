@@ -12,9 +12,9 @@ Standard Code Review abbreviations, a 4-letter-max prefix for messages
 | ALT | alternative way you could have coded this, just sayin' ||
 | BUG | the way it's coded has a glaring bug ||
 | TYPO |typo or spelling error ||
-| STYL | style or formatting can be improved for readability |
-| NAME | naming could be better |
-| NICE | cal out a good piece of code or design choice |
+| STYL | style or formatting can be improved for readability | STYL: Break up array literal into multiple lines |
+| NAME | naming could be better ||
+| NICE | call out a good piece of code or design choice ||
 
 
 ```
